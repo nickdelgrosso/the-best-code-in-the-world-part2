@@ -4,3 +4,4 @@ This is Petra:
  /\
 
 Fav movie is American Psycho
+Fav drink is orange juice
